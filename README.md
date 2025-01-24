@@ -1,1 +1,1 @@
-# Few-data-structures
+A few data structures and their functions
